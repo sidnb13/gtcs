@@ -1,0 +1,6 @@
+[submodule "CS1331"]
+	path = CS1331
+	url = https://github.com/sidnb13/CS1331
+[submodule "MATH1554"]
+	path = MATH1554
+	url = https://github.com/sidnb13/MATH1554
